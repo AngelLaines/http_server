@@ -23,7 +23,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author AngelLaines
+ * @author dell@AngelLaines
  */
 public class HTTPService implements Runnable {
 
